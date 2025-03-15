@@ -517,7 +517,7 @@ class _PersistentTabViewState extends State<PersistentTabView>
                             (MediaQuery.of(context).size.width / 5.0 - 30.0) /
                                 2),
                     width: MediaQuery.of(context).size.width / 5.0 - 30.0,
-                    decoration: const BoxDecoration(
+                    decoration:const BoxDecoration(
                         color: Colors.transparent,
                         borderRadius: BorderRadius.only(
                           topLeft: Radius.circular(100),
